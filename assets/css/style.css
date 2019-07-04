@@ -139,9 +139,10 @@ input[type=submit]:hover {
 }
 
 .message{
-    width: 100%;
-    display: block;
-    resize: inherit;
+        display: block;
+        resize: inherit;
+        padding-left: 15px;
+        
 }
 
 .section3{
