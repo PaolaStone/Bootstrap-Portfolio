@@ -70,13 +70,13 @@
     width: 200px;
     height: 290px;
     margin-right: 20px;
-    display: inline;
+    display: block;
     float: left;
 }
 
 .p{
     padding: 5px;
-    display: inline;
+    display: block;
     line-height: 200%;
     font-size:16px;
     
