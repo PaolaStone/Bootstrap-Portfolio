@@ -90,10 +90,10 @@
     
 }
 .footer{
+    display: block;
     background-color:#666666;
     text-align: center;
     line-height: 60px;
-    margin-top:80px;
     border-top: 8px solid #4aaaa5;
     font-size: 14px;
       
